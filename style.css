@@ -2,7 +2,7 @@ body {
     background-color: rgb(22, 22, 22);
 }
 
-h1,h2,h3 {
+h1,h2,h3,h4 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:rgb(65, 85, 196)
 }
@@ -32,6 +32,6 @@ div.disclaimerBox {
     border-radius: 20px;
 }
 
-.disclaimerText {
+.disclaimerText,a {
     color: rgb(22, 22, 22)
 }

@@ -31,6 +31,11 @@ a.navbar,p.navsplit {
     font-size: 25px;
 }
 
+.gamesLib {
+    margin: auto;
+    width: 85.9%;
+}
+
 .libItem {
     background-color: var(--fgCol);
     border-radius: 20px;

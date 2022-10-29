@@ -5,17 +5,23 @@ nanoGames is an open source games website for your (and my) enjoyment. however, 
 
 nanoGames has many pre-deployed links so you can start playing. however, if you're feeling advanced, you can deploy your own link by connecting a netlify, render, etc. project to this repo.
 
-## v1.0.1
-#### Bug Fixes
+## v1.1.0
+#### New Games
 
-fixed the following bugs created in v1.0.0:
+8 all-new games:
 
-- Typo on home page
-- Games page panel sizing
-- Navbar broken on games page
-- Impossible Quiz not working
-- Run 3 button missing
+- 1v1.lol
+- Appel
+- BasketBros
+- Cookie Clicker
+- Fireboy and Watergirl
+- Shell Shockers
+- Townscaper
+- Underrun
 
+Layout:
+
+- Centered Games Tiles
 
 ## links
 

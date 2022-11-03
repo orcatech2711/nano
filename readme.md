@@ -5,24 +5,13 @@ nanoGames is an open source games website for your (and my) enjoyment. however, 
 
 nanoGames has many pre-deployed links so you can start playing. however, if you're feeling advanced, you can deploy your own link by connecting a netlify, render, etc. project to this repo.
 
-## v1.1.0
-#### New Games
+## v1.1.1
+#### Bug Fixes
 
-8 all-new games:
+Bug Fixes:
 
-- 1v1.lol
-- Appel
-- BasketBros
-- Cookie Clicker
-- Fireboy and Watergirl
-- Shell Shockers
-- Townscaper
-- Underrun
-
-Layout:
-
-- Centered Games Tiles
-
+- Updated broken Navbar links
+- Added status indicator on Shell Shockers
 ## links
 
 [main link](http://projectcranberry.xyz/)
@@ -40,4 +29,4 @@ Layout:
 
 ## nanoGames forums and updates
 
-[click here to access the nanoGames updates page](http://updates.projectcranberry.xyz/)
+[click here to access the nanoGames updates page](http://nano.peerboard.com/)

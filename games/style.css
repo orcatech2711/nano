@@ -61,3 +61,8 @@ a.navbar,p.navsplit {
     font-size: 20px;
     color: var(--bgCol);
 }
+
+.warningIcon {
+    color: red;
+    font-weight: lighter;
+}
